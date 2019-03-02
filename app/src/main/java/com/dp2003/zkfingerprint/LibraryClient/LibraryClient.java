@@ -6,8 +6,8 @@ package com.dp2003.zkfingerprint.LibraryClient;
 
 public class LibraryClient {
     private static final String SERVER_URL = "http://123.103.13.236/dp2library/rest";
-    private static final String USERNAME = "xiaoma";
-    private static final String PASSWORD = "dp2003.com***";
+    private static final String USERNAME = "***";
+    private static final String PASSWORD = "***";
 
     public static int Login(String username,String password){
 
